@@ -1,3 +1,4 @@
+// 프로그래머스 체육복
 package Greedy;
 import java.util.*;
 public class gymSuit {

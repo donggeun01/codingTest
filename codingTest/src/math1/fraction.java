@@ -1,3 +1,4 @@
+// 분수 찾기
 package math1;
 
 import java.util.Scanner;
